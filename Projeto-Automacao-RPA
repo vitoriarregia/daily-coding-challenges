@@ -1,0 +1,15 @@
+# 📂 Meus Projetos de Programação e Dados
+
+Bem-vindo ao meu repositório de estudos e automações! Aqui documento minha evolução técnica.
+
+---
+
+## 🤖 1. Automação de Cadastro de Produtos (RPA)
+Script em Python que utiliza **Pandas** e **PyAutoGUI** para automatizar o preenchimento de sistemas ERP a partir de uma base CSV.
+
+* **Tecnologias:** Python, Pandas, Automação de Interface.
+* **Status:** Concluído ✅
+* 👉 [**Ver detalhes do projeto aqui**](./Projeto-Automacao-RPA)
+
+---
+
